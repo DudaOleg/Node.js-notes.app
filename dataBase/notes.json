@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1a",
+    "name": "first note",
+    "category": "Task",
+    "content": "first note content",
+    "dates": []
+  },
+  {
+    "id": "2z",
+    "name": "second note",
+    "category": "Random Thought",
+    "content": "second note content",
+    "dates": []
+  },
+  {
+    "id": "3c",
+    "name": "third note",
+    "category": "Idea",
+    "content": "thirty note content",
+    "dates": []
+  },
+  {
+    "id": "4a",
+    "name": "fourth note",
+    "category": "Quote",
+    "content": "fourth note content",
+    "dates": []
+  }
+]

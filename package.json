@@ -1,0 +1,15 @@
+{
+  "name": "node.js-notes.app",
+  "version": "1.0.0",
+  "description": "notes.app only node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DudaOleg <vladmalkin66@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "joi": "^17.5.0"
+  }
+}
